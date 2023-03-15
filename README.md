@@ -1,10 +1,10 @@
-### Hey!  My name is Eduardo Rossetti. Passionate about programming and new technologies, looking to progress every day!
-#I'm currently learning Python and JavaScript, especially node.js and react.js.
+<h1>Hey!  My name is Eduardo Rossetti. Passionate about programming and new technologies, looking to progress every day!
+I'm currently learning Python and JavaScript, especially node.js and react.js.</h1>
 
 ##
 
-### Olá! Meu nome é Eduardo Rossetti. Sou apaixonado por programação e novas tecnologias, sempre buscando progredir a cada dia!
-#Atualmente, estou estudando Python e JavaScript, especialmente Node.js e React.js.
+<h3>Olá! Meu nome é Eduardo Rossetti. Sou apaixonado por programação e novas tecnologias, sempre buscando progredir a cada dia!
+#Atualmente, estou estudando Python e JavaScript, especialmente Node.js e React.js.</h3>
 
 ##
 
