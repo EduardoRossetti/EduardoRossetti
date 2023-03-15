@@ -1,8 +1,8 @@
 <h3>Hey!  My name is Eduardo Rossetti. Passionate about programming and new technologies, looking to progress every day!
-<b>I'm currently learning Python and JavaScript, especially node.js and react.js.</h1>
+<br>I'm currently learning Python and JavaScript, especially node.js and react.js.</h1>
 
 <h4><i>Olá! Meu nome é Eduardo Rossetti. Sou apaixonado por programação e novas tecnologias, sempre buscando progredir a cada dia!
-  <b>Atualmente, estou estudando Python e JavaScript, especialmente Node.js e React.js.</i></h3>
+  <br>Atualmente, estou estudando Python e JavaScript, especialmente Node.js e React.js.</i></h3>
 
 <div style="display: inline_block"><br>
   <img alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
