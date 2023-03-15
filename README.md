@@ -4,14 +4,14 @@
 <h4><i>Olá! Meu nome é Eduardo Rossetti. Sou apaixonado por programação e novas tecnologias, sempre buscando progredir a cada dia!
   <br>Atualmente, estou estudando Python e JavaScript, especialmente Node.js e React.js.</i></h3>
 
-<center><br>
+<div style="display: inline_block"><br>
   <img alt="js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</center>
+</div>
   
 ##
  
