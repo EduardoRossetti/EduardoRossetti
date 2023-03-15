@@ -14,8 +14,9 @@
   ##
  
 <div>
-  <h6>Contact me<h6>
+  <h6><b>Contact Me</b><h6>
   <a href="https://www.instagram.com/eduardorossetti7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:edurossettimelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-rossetti-031880231/" target="_blank"><img alt="linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+   <a href="https://wa.me/5518996454493" target="_blank"> <img alt="whatsapp" height="30" width="40" src="https://icons8.com/icon/16713/whatsapp">
 </div>
