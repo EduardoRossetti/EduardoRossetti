@@ -1,6 +1,3 @@
-<h3>Hey!  My name is Eduardo Rossetti. Passionate about programming and new technologies, looking to progress every day!
-<br>I'm currently learning Python and JavaScript.</h1>
-
 <div style="display: inline_block"><br>
   <img alt="js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
