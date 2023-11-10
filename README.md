@@ -10,7 +10,7 @@ As a developer deeply passionate about technology and innovation, I thrive in en
 ## 💻 Technical Skills
 - **Languages**: JavaScript | TypeScript
 - **Frameworks and Libraries**: React.js | Node.js
-- **Currently Studying**: Nest.js | Next.js
+- **Currently Studying**: Nest.js | Next.js | Fastify | Java
 - **Databases**: PostgreSQL | MySQL
 <div>
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
