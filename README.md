@@ -5,6 +5,12 @@ I'm a developer passionate about technology and innovation. Skilled in various l
 
 - 🌱 Currently enhancing my skills in **React**, **Node.js**, and **Full Stack Web Development**.
 - 👯 Looking to collaborate on **open-source projects** and initiatives that make a difference.
+
+## Technical Skills
+- **Languages**:JavaScript | TypeScript
+- **Frameworks and Libraries**: React.js | Node.js
+- **Studying**: Nest.js | Next.js
+- **Databases**: PostgreSQL | MySQL
 <div>
   <img alt="js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="typescript"height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -17,12 +23,6 @@ I'm a developer passionate about technology and innovation. Skilled in various l
   <img alt="nest.js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img alt="next.js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </div>
-
-## Technical Skills
-- **Languages**:JavaScript | TypeScript
-- **Frameworks and Libraries**: React.js | Node.js
-- **Studying**: Nest.js | Next.js
-- **Databases**: PostgreSQL | MySQL
 
 ## Education and Certifications
 - **Bachelor's Degree in Computer Science** - XYZ University (YEAR)
