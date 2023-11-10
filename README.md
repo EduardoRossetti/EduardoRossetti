@@ -7,7 +7,7 @@ I'm a developer passionate about technology and innovation. Skilled in various l
 - 👯 Looking to collaborate on **open-source projects** and initiatives that make a difference.
 
 ## Technical Skills
-- **Languages**:JavaScript | TypeScript
+- **Languages**: JavaScript | TypeScript
 - **Frameworks and Libraries**: React.js | Node.js
 - **Studying**: Nest.js | Next.js
 - **Databases**: PostgreSQL | MySQL
@@ -23,13 +23,13 @@ I'm a developer passionate about technology and innovation. Skilled in various l
 </div>
 
 ## Education and Certifications
-- **Bachelor's Degree in Computer Science** - XYZ University (YEAR)
-- **XYZ Certification** - ABC Institution (YEAR)
+- **Technologist Degree in Systems Analysis and Development** - UNOESTE
 
 ## Interests
 - Software Engineering
 - Design Patterns
 - Software Architecture
+- Clean Code
 
 ---
 
