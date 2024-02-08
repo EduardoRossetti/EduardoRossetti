@@ -33,4 +33,5 @@ As a developer deeply passionate about technology and innovation, I thrive in en
 I am always keen to explore new professional landscapes and to engage in meaningful collaborations. If you have an interesting project or idea, I'd love to hear about it. Let's connect!
 
 ##
+  <a href="https://www.instagram.com/eduardorossetti7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eduardo-rossetti/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
