@@ -9,7 +9,7 @@ As a developer deeply passionate about technology and innovation, I thrive in en
 
 ## 💻 Technical Skills
 - **Languages**: JavaScript | TypeScript
-- **Frameworks and Libraries**: React.js | Node.js
+- **Frameworks and Libraries**: React.js | Node.js | Next.js | Nest.js
 - **Databases**: PostgreSQL | MySQL
 <div>
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -18,6 +18,8 @@ As a developer deeply passionate about technology and innovation, I thrive in en
   <img alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img alt="next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </div>
 
 ## 🎓 Education & Certifications
