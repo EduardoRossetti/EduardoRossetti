@@ -1,7 +1,7 @@
 ## 🚀 About Me
 As a developer deeply passionate about technology and innovation, I thrive in environments that constantly challenge and expand my horizons. My proficiency spans various programming languages and frameworks, and I'm always on the lookout for new challenges and professional growth opportunities.
 
-## 💻 Technical Skills
+## 💻 Technology Stack
 - **Languages**: TypeScript
 - **Frameworks and Libraries**: React.js | Node.js
 <div>
