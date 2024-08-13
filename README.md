@@ -1,4 +1,4 @@
-Software developer with experience in the javascript ecosystem, both in the development of APIs using Node.js, Nest.js, Fastify and Express, and interfaces using React.js and Next.js.
+**Software developer with experience in the javascript ecosystem, both in the development of APIs using Node.js, Nest.js, Fastify and Express, and interfaces using React.js and Next.js.**
 
 ## 💻 Technology Stack
 - **Languages**: TypeScript | Javascript
